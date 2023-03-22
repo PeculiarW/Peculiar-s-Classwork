@@ -1,0 +1,71 @@
+body{
+    background-image: url(png.jpg);
+    background-size: cover;
+    
+}
+.home{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    font-weight: bolder;
+    margin-top: 3rem;
+    cursor: pointer;
+   
+   
+}
+.login{
+margin-left: 62rem;
+margin-top: 2px;
+cursor: pointer;
+border-radius: 10px;
+background-color: black;
+color: white;
+padding: 10px;
+border-style: hidden;
+font-family: 'Times New Roman', Times, serif;
+
+
+}
+.figma{
+    color: rgb(163, 101, 101);
+    font-size: 25px;
+    margin-left: 20rem;
+    font-style: italic;
+
+
+}
+h1{
+color: rgb(150, 35, 35);
+text-align: center;
+font-size: 60px;
+padding-top: 30px;
+padding-bottom: 10px;
+}
+h2{
+    color: black;
+    text-align: center;
+    font-family: cursive;
+}
+.b1{
+padding: 2px;
+margin-left: 18rem;
+cursor: pointer;
+padding: 10px;
+background-color: rgb(10, 10, 10);
+color:white ;
+border-radius: 30px;
+border-style: hidden;
+margin-top: 3rem;
+
+}
+
+.b2{
+  margin-left: 33rem;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 30px;
+    border-style: hidden;
+   margin-top: 3rem;
+    color: rgb(77, 29, 29);
+}
